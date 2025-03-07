@@ -1,6 +1,6 @@
 # Flip Flop
 
-A musician's practice companion built into Youtube as a Google Chrome Extension!
+A musician's practice companion built into Youtube as a Google Chrome Extension! Create loopable YouTube clips synced to a metronome.
 
 ## Available Scripts
 
